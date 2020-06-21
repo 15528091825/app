@@ -1,0 +1,51 @@
+{
+  "id": "1849545",
+  "name": "app",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "774531",
+      "name": "赞1",
+      "font_class": "zan1",
+      "unicode": "e6b3",
+      "unicode_decimal": 59059
+    },
+    {
+      "icon_id": "774535",
+      "name": "赞4",
+      "font_class": "zan4",
+      "unicode": "e6b7",
+      "unicode_decimal": 59063
+    },
+    {
+      "icon_id": "1089296",
+      "name": "点赞",
+      "font_class": "buoumaotubiao16",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "7408746",
+      "name": "减少",
+      "font_class": "jianshao",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "14046013",
+      "name": "加",
+      "font_class": "tianjia",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "14113878",
+      "name": "爱心",
+      "font_class": "aixin",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    }
+  ]
+}
