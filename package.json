@@ -11,7 +11,7 @@
     "better-scroll": "^1.15.2",
     "core-js": "^3.6.4",
     "momen": "^0.0.1-security",
-    "moment": "^2.26.0",
+    "moment": "^2.29.2",
     "qs": "^6.9.4",
     "vant": "^2.8.3",
     "vue": "^2.6.11",
